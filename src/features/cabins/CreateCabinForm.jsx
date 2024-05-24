@@ -22,7 +22,7 @@ import { MenuContext } from "../../ui/Menu";
 
 
 function CreateCabinForm({func='create', data = {}, id=null, type, handleClose}) {
-  const {close} = useContext(MenuContext)
+  // const {close} = useContext(MenuContext)
   const {register, handleSubmit, formState:{errors}} = useForm({resolver:yupResolver(cabinSchema), defaultValues:data});
 
 
@@ -37,7 +37,7 @@ const onSubmit = async function(data) {
         onSuccess:() => {
           toast.success("Cabin created successfully") ;
           handleClose();
-          close()
+          // close()
 
         }
       });

@@ -45,9 +45,7 @@ export async function CreateCabin(cabinData) {
     query = query.insert([
       {
         ...cabinData,
-        cabinImage: cabinData.cabinImage
-          ? cabinData.cabinImage
-          : cabinImagePath,
+        cabinImage: cabinImagePath,
       },
     ]);
   }
