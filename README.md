@@ -2,11 +2,35 @@
 
 #### Welcome to Timber Trials, the comprehensive solution for hotel management designed to streamline and modernize operations for hotel owners. This application boasts a suite of features to efficiently manage bookings, cabins, user roles, check-ins, check-outs, and much more.
 
+## **Link**
+
+### **Live link** : (https://timber-trails.vercel.app)
+
 ## **Images**
 
 ## **Dashboard-image**
 
-<img src="./public/Timber-trials-images/dashboard-1.png" alt="J" width="300"/>
+<img src="./public/Timber-trials-images/dashboard-1.png"  width="300"/>
+
+## **Dashboard with chartimage**
+
+<img src="./public/Timber-trials-images/dashboard-chart.png" width="300"/>
+
+## **Bookings page**
+
+<img src="./public/Timber-trials-images/bookings.png"  width="300"/>
+
+## **creating new user page**
+
+<img src="./public/Timber-trials-images/creating-user.png"  width="300"/>
+
+## **Darkmode page**
+
+<img src="./public/Timber-trials-images/darkmode-1.png"  width="300"/>
+
+## **Login page**
+
+<img src="./public/Timber-trials-images/login-page.png"  width="300"/>
 
 ## **Features**
 
