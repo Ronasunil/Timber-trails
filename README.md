@@ -2,6 +2,12 @@
 
 #### Welcome to Timber Trials, the comprehensive solution for hotel management designed to streamline and modernize operations for hotel owners. This application boasts a suite of features to efficiently manage bookings, cabins, user roles, check-ins, check-outs, and much more.
 
+## **Images**
+
+## **Dashboard-image**
+
+<img src="./public/Timber-trials-images/dashboard-1.png" alt="J" width="300"/>
+
 ## **Features**
 
 ### **Secure Login**: Robust authentication system ensuring secure access.
