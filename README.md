@@ -8,11 +8,11 @@
 
 ## **Images**
 
-## **Dashboard-image**
+## **Dashboard**
 
 <img src="./public/Timber-trials-images/dashboard-1.png"  width="300"/>
 
-## **Dashboard with chartimage**
+## **Dashboard with chart**
 
 <img src="./public/Timber-trials-images/dashboard-chart.png" width="300"/>
 
